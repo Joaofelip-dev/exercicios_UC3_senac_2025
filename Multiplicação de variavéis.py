@@ -1,0 +1,5 @@
+a = int(input("informe o valor de a:"))
+b = int(input("informe o valor de b:"))
+c = int(input("informe o valor de c:"))
+resultado = (a*b*c)
+print("o resultado da multiuplicação é igual a",resultado)
