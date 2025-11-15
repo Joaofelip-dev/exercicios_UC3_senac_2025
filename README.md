@@ -9,5 +9,37 @@ Olá! Meu nome é João Felipe tenho 16 anos e, estou concluindo o 2º ano do En
 ---
 ### 🤖Linguagens e tecnologias
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+ <img
+  align="left"
+  alt="PHP"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
           
+<br/>
+<br/>
+
+### 💹Estatisticas
+<img
+  align="left"
+  alt="GitHub stats"
+  heigt="200"
+  style="padding-right: 10px;"
+  src="//github-readme-stats.vercel.app/api?username=Joaofelip-dev&show_icons=true&theme=tokyonight&include_all_comits=true&locale=pt-br"
+  />
+ 
+
+<img
+  align="left"
+  alt="GitHub stats"
+  heigt="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofelip&theme=tokyonight&layout=compact&custom_titlle"
+  />
+
+
+
+
+
+
