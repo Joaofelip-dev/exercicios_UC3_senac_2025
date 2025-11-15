@@ -30,14 +30,6 @@ Olá! Meu nome é João Felipe tenho 16 anos e, estou concluindo o 2º ano do En
   />
  
 
-<img
-  align="left"
-  alt="GitHub stats"
-  heigt="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaofelip&theme=tokyonight&layout=compact&custom_titlle"
-  />
-
 
 
 
